@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Lokesh Kaushik
-- 🌱 I’m currently learning Computer Architecture, Advance C and python.
+- 🌱 I’m currently learning linux and web development.
+- 📚 Knows how to code in C and python.
 - 📫 How to reach me --> 📧 contact.lokeshkaushik@gmail.com
 
 <!---
