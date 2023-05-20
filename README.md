@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lokesh Kaushik
 - 🌱 I’m currently learning linux and web development.
-- 📚 Languages knows--. python and C
+- 📚 Languages knows--> python and C
 - 📫 How to reach me --> 📧 contact.lokeshkaushik@gmail.com
 
 <!---
