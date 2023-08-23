@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lokesh Kaushik
-- 🌱 I’m currently learning linux and web development.
+- 🌱 Studying in BCA 2nd year
 - 📚 Languages knows --> python and C
 - 📫 How to reach me --> 📧 contact.lokeshkaushik@gmail.com
 
