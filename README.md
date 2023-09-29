@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lokesh Kaushik
 - 🌱 Studying in BCA 2nd year
-- 📚 Languages knows --> python and C
+- 📚 Languages known --> python and C
 - 📫 How to reach me --> 📧 contact.lokeshkaushik@gmail.com
 
 <!---
