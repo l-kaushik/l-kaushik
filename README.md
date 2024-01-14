@@ -2,10 +2,7 @@
 - 🌱 Studying in BCA 2nd year
 - 📚 Languages known --> C++, C and python
 - 📫 How to reach me --> 📧 contact.lokeshkaushik@gmail.com  
-[[params.social]]
-icon = "linkedin"
-icon_pack = "fa"
-link = "//linkedin.com/in/lokesh-kaushik"
+<a href="https://linkedin.com/in/lokesh-kaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay joshi" height="30" width="40" /></a>
 
 <!---
 l-kaushik/l-kaushik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
