@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lokesh Kaushik
-- 🌱 Studying in BCA 2nd year
+- 🌱 Studying in BCA 3rd year
 - 💻 Learning Unreal Engine 5.3
 - 📚 Languages known --> C++, Java, C and python
 - 📫 How to reach me --> 📧 contact.lokeshkaushik@gmail.com
